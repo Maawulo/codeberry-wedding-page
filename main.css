@@ -13,28 +13,12 @@ font-family: 'Mulish', sans-serif;
     font-size: 14px;
 }
 
+html {
+    height: 12000px;
+}
 
 body{
     background-image: url(https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png);
 }
 
-.landing-cover {
-    width: 100%;
-}
 
-.landing-cover {
-    position: absolute;
-}
-
-.header-block {
-    width: 200px;
-    height: 200px;
-    position: relative;
-    top: 50vh;
-    left: 50vw;
-    background-color: blue;
-}
-
-.header-headline {
-    font-size: 112px;
-}

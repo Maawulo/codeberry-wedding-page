@@ -1,0 +1,19 @@
+/* Fonts
+font-family: 'Great Vibes', cursive;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Mulish', sans-serif;
+*/
+
+/* Simple CSS reset */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+
+
+
+
